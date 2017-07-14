@@ -1,0 +1,3 @@
+rootProject.name = 'examplereactnative'
+
+include ':app'
